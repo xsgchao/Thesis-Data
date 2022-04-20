@@ -18,7 +18,7 @@
 
 (2). `AS-unrelated posts.xlsx` 包括了187个体系结构坏味道无关的帖子（标题、问题、答案和URLs）。注：我们只提取数据集中每个帖子的第一个答案。
 
-(3). `AS related code.xlsx` 包含了从Stack Overflow中抽取的体系结构坏味道与修复方案代码数据集。
+(3). `AS related code.xlsx` 包括了从Stack Overflow中抽取的体系结构坏味道与修复方案代码数据集。
 
-(4). 
+(4). `Responses of validation survey.xlsx` 包括了34份工业验证调研的有效问卷回复。
 
