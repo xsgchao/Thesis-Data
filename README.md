@@ -12,6 +12,9 @@
 
 (2). `Data Labeling & Encoding.mx12`包括了通过使用MAXQDA工具分析得到的数据标记和编码结果，该文件可以通过使用MAXQDA 12或更高版本（https://www.maxqda.com/ ）来打开，MAXQDA可在下载。
 
-## 3. `AS related code.zip`（第五章）包括了下面一个文件：
-(1). `AS related code.xlsx` 包含了体系结构坏味道与修复方案代码的抽取数据集。
+## 3. `AS related code.zip`（第五章）包括了下面四个文件：
+(1). `AS-related posts.xlsx` 包括了208个体系结构坏味道相关的帖子（标题、问题、答案和URLs）。 
+(2). `AS-unrelated posts.xlsx` 包括了187个体系结构坏味道无关的帖子（标题、问题、答案和URLs）。
+(3). `AS related code.xlsx` 包含了体系结构坏味道与修复方案代码的抽取数据集。
+(4). 
 
