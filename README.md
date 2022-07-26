@@ -10,7 +10,7 @@
 ## 2. `Collected Data and Data Labeling & Encoding.zip`（第四章）包括了下面两个文件：
 (1). `Collected Data.docx`包括了207个体系结构坏味道相关的帖子以及它们的帖子URL链接。
 
-(2). `Data Labeling & Encoding.mx12`包括了通过使用MAXQDA工具分析得到的数据标记和编码结果（包括情感分析标记结果），该文件可以通过使用MAXQDA 12或更高版本（https://www.maxqda.com/ ）来打开，MAXQDA可在下载。
+(2). `Data Labeling & Encoding.mx20`包括了通过使用MAXQDA工具分析得到的数据标记和编码结果（包括情感分析标记结果），该文件可以通过使用MAXQDA 20或更高版本（https://www.maxqda.com/ ）来打开，MAXQDA可在下载。
 
 ## 3. `AS related code.zip`（第五章）包括了下面四个文件：
 
